@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @mahesheninrac
+- 👋 Hi,
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning PHP & CodeIgniter
+- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Open source project
-- 📫 How to reach me @solanke.mahesh_ at insta
-- 😄 Pronouns: mahesh
   
 
 <!---
