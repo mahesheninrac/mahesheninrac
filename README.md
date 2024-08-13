@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Devops
+- 🌱 I’m currently learning Backend & Devops
 - 💞️ I’m looking to collaborate on Open source project
   
 
